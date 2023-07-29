@@ -6,19 +6,6 @@ Welcome to my Github page! I'm a new developer who loves programming and open so
 
 I'm an elementary school student ~~(can you believe it)~~
 
-## Skill
-
-~~(Don't take it seriously.)~~
-
-- Proficiency in lightweight and efficient development techniques and modern and efficient development models (ctrl+c ctrl+v).
-- Proficiency in turning on and off major application development platforms.
-- Proficiency in installing and uninstalling major code management tools.
-- Programming of the main facets Google and ChatGPT.
-
-## My Projects
-
-Project!? What project!? There is no project!
-
 <p>
       <img
         src="https://github-readme-stats.vercel.app/api?username=alongw&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_rank=true"
@@ -32,7 +19,34 @@ Project!? What project!? There is no project!
       />
     </p>
 
+## Skill
 
+~~(Don't take it seriously.)~~
+
+- Proficiency in lightweight and efficient development techniques and modern and efficient development models (ctrl+c ctrl+v).
+- Proficiency in turning on and off major application development platforms.
+- Proficiency in installing and uninstalling major code management tools.
+- Programming of the main facets Google and ChatGPT.
+
+## My Projects
+
+Project!? What project!? There is no project!
+
+
+### My API Server
+
+[![API](https://github-readme-stats.vercel.app/api/pin/?username=alongw&repo=nia-api)](https://github.com/alongw/nia-api)
+
+### My Bot
+
+[![QQBOT](https://github-readme-stats.vercel.app/api/pin/?username=alongw&repo=nia-qq-bot)](https://github.com/alongw/nia-qq-bot)
+[![UptimeQQBOT](https://github-readme-stats.vercel.app/api/pin/?username=alongw&repo=Uptime-Kuma-qqbot)](https://github.com/alongw/Uptime-Kuma-qqbot)
+[![MCQQBOT](https://github-readme-stats.vercel.app/api/pin/?username=alongw&repo=auto-mc-whitelist-qq-bot)](https://github.com/alongw/auto-mc-whitelist-qq-bot)
+
+### My Blog
+
+[![web](https://github-readme-stats.vercel.app/api/pin/?username=liyxiblog&repo=web)](https://github.com/liyxiblog/web)
+[![server](https://github-readme-stats.vercel.app/api/pin/?username=liyxiblog&repo=server)](https://github.com/liyxiblog/server)
 
 ## contact details
 
