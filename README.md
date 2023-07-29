@@ -18,6 +18,9 @@ I'm an elementary school student ~~(can you believe it)~~
 ## My Projects
 
 Project!? What project!? There is no project!
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alongw&layout=compact" width="400" align="left"/>
+
 ## contact details
 
 - 📧E-mail：[i@ama.moe](mailto:i@ama.moe)
