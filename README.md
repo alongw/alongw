@@ -19,7 +19,20 @@ I'm an elementary school student ~~(can you believe it)~~
 
 Project!? What project!? There is no project!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alongw&layout=compact" width="400" align="left"/>
+<p>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=alongw&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_rank=true"
+        style="height: 200px"
+        align="center"
+      />
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alongw&layout=compact&card_width=320"
+        height="200"
+        align="center"
+      />
+    </p>
+
+
 
 ## contact details
 
