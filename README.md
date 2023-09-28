@@ -36,6 +36,7 @@ Project!? What project!? There is no project!
 ### My API Server
 
 [![API](https://github-readme-stats.vercel.app/api/pin/?username=alongw&repo=nia-api)](https://github.com/alongw/nia-api)
+[![Images - API](https://github-readme-stats.vercel.app/api/pin/?username=alongw&repo=nia-images)](https://github.com/alongw/nia-images)
 
 ### My Bot
 
