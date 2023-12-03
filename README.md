@@ -51,10 +51,9 @@ Project!? What project!? There is no project!
 
 ## contact details
 
-- 📧E-mail：[i@ama.moe](mailto:i@ama.moe)
+- 📧E-mail：[alongnia@hotmail.com](mailto:alongnia@hotmail.com)
 - 📟 Telegram: [@alongw](https://alongw.t.me/)
-- 🌐 Website：[https://t.ama.moe/](https://t.ama.moe/)
-- 🐦 Twitter: [@alongniaa](https://twitter.com/alongniaa)
+- 🌐 Website：[https://connect.lolinya.net/](https://connect.lolinya.net/)
 
 Thank you for visiting my GitHub page! Feel free to get in touch with me if you have any questions or suggestions about my projects or skills. I look forward to learning and improving with you!
 
