@@ -53,7 +53,7 @@ Project!? What project!? There is no project!
 
 - 📧E-mail：[alongnia@hotmail.com](mailto:alongnia@hotmail.com)
 - 📟 Telegram: [@alongw](https://alongw.t.me/)
-- 🌐 Website：[https://connect.lolinya.net/](https://connect.lolinya.net/)
+- 🌐 Website：[https://contact.alongw.cn/](https://contact.alongw.cn/i/57fb6148)
 
 Thank you for visiting my GitHub page! Feel free to get in touch with me if you have any questions or suggestions about my projects or skills. I look forward to learning and improving with you!
 
