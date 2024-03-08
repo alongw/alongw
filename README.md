@@ -42,7 +42,6 @@ Project!? What project!? There is no project!
 
 [![QQBOT](https://github-readme-stats.vercel.app/api/pin/?username=alongw&repo=nia-qq-bot)](https://github.com/alongw/nia-qq-bot)
 [![UptimeQQBOT](https://github-readme-stats.vercel.app/api/pin/?username=alongw&repo=Uptime-Kuma-qqbot)](https://github.com/alongw/Uptime-Kuma-qqbot)
-[![MCQQBOT](https://github-readme-stats.vercel.app/api/pin/?username=alongw&repo=auto-mc-whitelist-qq-bot)](https://github.com/alongw/auto-mc-whitelist-qq-bot)
 
 ### My Blog
 
