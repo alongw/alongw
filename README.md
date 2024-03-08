@@ -38,12 +38,6 @@ Project!? What project!? There is no project!
 [![API](https://github-readme-stats.vercel.app/api/pin/?username=alongw&repo=nia-api)](https://github.com/alongw/nia-api)
 [![Images - API](https://github-readme-stats.vercel.app/api/pin/?username=alongw&repo=nia-images)](https://github.com/alongw/nia-images)
 
-### My Bot
-
-[![QQBOT](https://github-readme-stats.vercel.app/api/pin/?username=alongw&repo=nia-qq-bot)](https://github.com/alongw/nia-qq-bot)
-[![UptimeQQBOT](https://github-readme-stats.vercel.app/api/pin/?username=alongw&repo=Uptime-Kuma-qqbot)](https://github.com/alongw/Uptime-Kuma-qqbot)
-[![MCQQBOT](https://github-readme-stats.vercel.app/api/pin/?username=alongw&repo=auto-mc-whitelist-qq-bot)](https://github.com/alongw/auto-mc-whitelist-qq-bot)
-
 ### My Blog
 
 [![web](https://github-readme-stats.vercel.app/api/pin/?username=liyxiblog&repo=web)](https://github.com/liyxiblog/web)
