@@ -9,12 +9,12 @@ I'm an elementary school student ~~(can you believe it)~~
 <p>
       <img
         src="https://github-readme-stats.vercel.app/api?username=alongw&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"
-        style="height: 200px"
+        style="height: 185px"
         align="center"
       />
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=alongw&layout=compact&card_width=320"
-        height="200"
+        height="185"
         align="center"
       />
     </p>
