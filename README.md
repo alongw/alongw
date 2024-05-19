@@ -8,7 +8,7 @@ I'm an elementary school student ~~(can you believe it)~~
 
 <p>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=alongw&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_rank=true"
+        src="https://github-readme-stats.vercel.app/api?username=alongw&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"
         style="height: 200px"
         align="center"
       />
@@ -21,8 +21,6 @@ I'm an elementary school student ~~(can you believe it)~~
 
 ## Skill
 
-~~(Don't take it seriously.)~~
-
 - Proficiency in lightweight and efficient development techniques and modern and efficient development models (ctrl+c ctrl+v).
 - Proficiency in turning on and off major application development platforms.
 - Proficiency in installing and uninstalling major code management tools.
@@ -30,23 +28,14 @@ I'm an elementary school student ~~(can you believe it)~~
 
 ## My Projects
 
-Project!? What project!? There is no project!
+Undefined (No project because it's too inferior)  
 
-
-### My API Server
-
-[![API](https://github-readme-stats.vercel.app/api/pin/?username=alongw&repo=nia-api)](https://github.com/alongw/nia-api)
-[![Images - API](https://github-readme-stats.vercel.app/api/pin/?username=alongw&repo=nia-images)](https://github.com/alongw/nia-images)
-
-### My Blog
-
-[![web](https://github-readme-stats.vercel.app/api/pin/?username=liyxiblog&repo=web)](https://github.com/liyxiblog/web)
-[![server](https://github-readme-stats.vercel.app/api/pin/?username=liyxiblog&repo=server)](https://github.com/liyxiblog/server)
+The bugs are all written by me and the ones that run are written by GPT
 
 ## contact details
 
 - 📧E-mail：[alongnia@hotmail.com](mailto:alongnia@hotmail.com)
-- 📟 Telegram: [@alongw](https://alongw.t.me/)
+- 📟 Telegram: [@alongw](https://alongnya.t.me/)
 - 🌐 Website：[https://contact.alongw.cn/](https://contact.alongw.cn/i/57fb6148)
 
 Thank you for visiting my GitHub page! Feel free to get in touch with me if you have any questions or suggestions about my projects or skills. I look forward to learning and improving with you!
