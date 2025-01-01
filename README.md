@@ -1,10 +1,6 @@
 # Hi there, I'm alongw! 👋
 
-Welcome to my Github page! I'm a new developer who loves programming and open source, exploring new technologies and solving interesting problems.
-
-## About me.
-
-I'm an elementary school student ~~(can you believe it)~~
+Welcome to my GitHub profile! I'm a newbie developer learning programming. I know a bit of Vue.js and TypeScript. Use English, Cantonese, and Mandarin.
 
 <p>
       <img
@@ -19,24 +15,24 @@ I'm an elementary school student ~~(can you believe it)~~
       />
     </p>
 
-## Skill
+## Skills
 
-- Proficiency in lightweight and efficient development techniques and modern and efficient development models (ctrl+c ctrl+v).
-- Proficiency in turning on and off major application development platforms.
-- Proficiency in installing and uninstalling major code management tools.
-- Programming of the main facets Google and ChatGPT.
+- Proficient in lightweight and efficient development techniques and modern development models (ctrl+c ctrl+v).
+- Proficient in starting and stopping major development platforms.
+- Proficient in installing and uninstalling major code editing and management tools.
+- Programming mindset oriented towards Google and ChatGPT.
 
-## My Projects
+## Projects
 
-Undefined (No project because it's too inferior)  
+No projects.
 
-The bugs are all written by me and the ones that run are written by GPT
+*The bugs are all mine, the parts that actually work are written by ChatGPT.*
 
-## contact details
+## Contact
 
-- 📧E-mail：[alongnia@hotmail.com](mailto:alongnia@hotmail.com)
-- 📟 Telegram: [@alongw](https://alongnya.t.me/)
-- 🌐 Website：[https://contact.alongw.cn/](https://contact.alongw.cn/i/57fb6148)
+- 📧E-mail：[neko@awwa.cc](mailto:neko@awwa.cc)
+- 📟 Telegram: [@alongw](https://see.loliis.top/t.me/alongw)
+- 🌐 Website：[https://contact.alongw.cn/](https://contact.alongw.cn/)
 
 Thank you for visiting my GitHub page! Feel free to get in touch with me if you have any questions or suggestions about my projects or skills. I look forward to learning and improving with you!
 
